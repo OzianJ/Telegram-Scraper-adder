@@ -1,0 +1,4 @@
+telethon==1.28.5
+configparser==5.3.0
+colorama==0.4.6
+python-csv==0.0.13
